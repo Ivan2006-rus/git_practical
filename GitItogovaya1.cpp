@@ -14,5 +14,6 @@ int main()
     cout << "Введите радиус"<<endl;
     cin >> r;
     cout << "Длина окружности: " << 2*r*M_PI <<endl;
+    cout << "Площадь окружности: " << M_PI * r * r << endl;
 }
 
